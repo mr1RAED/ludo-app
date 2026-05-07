@@ -1,9 +1,4 @@
-android/
-ios/
-node_modules/
-.yarn/
-.bundle/
-dist/
-build/
-.gradle/
-*.log
+# Android build files
+android/.gradle/
+android/app/build/
+*.keystore
